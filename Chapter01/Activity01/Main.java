@@ -10,7 +10,7 @@ public class Main {
         // mathematical operation
         m = Math.min(a,b);
 
-        System.out.println(r + m); // print out the results and add mine
+        System.out.println(r + m); // print out the results and add mine 🌍🌍🌍git
         
     }
 }
